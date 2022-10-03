@@ -21,7 +21,5 @@
 <code><img height="20" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
            
-<br>
-
 ##
 ![snake gif](https://github.com/VitXP/VitXP/blob/output/github-contribution-grid-snake.svg)

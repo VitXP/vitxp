@@ -4,7 +4,8 @@
 <br>
 <br>
 
-## Sobre Mim
+##
+**Sobre Mim
 
 - 👨🏻‍🎓 Estudante
 
@@ -14,7 +15,7 @@
 
 - ❤️ Adoro comida, animes, programação e animais
 
-<br><br>
+<br>
 
 <code><img height="20" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>

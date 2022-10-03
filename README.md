@@ -27,4 +27,4 @@
 ##
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vitXP=vitxp)
+![Anurag's GitHub stats](https://github.com/VitXP)

@@ -7,7 +7,7 @@
 ##
 **Sobre Mim**
 
-<br><br>
+<br>
 
 - 👨🏻‍🎓 Estudante
 

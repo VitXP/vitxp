@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/VitXP/vitxp.git"><img width="80%" alt="Oie! Bem vindo ao meu perfil" src="./assets/Welcome.png" /></a></p>
+<p align="center"><img width="80%" alt="Oie! Bem vindo ao meu perfil" src="./assets/Welcome.png" /></p>
 
 
 Sobre Mim

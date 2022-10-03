@@ -3,7 +3,7 @@
 
 <br />
 
-##** Sobre Mim**
+## Sobre Mim
 
 - 👨🏻‍🎓 Estudante
 
